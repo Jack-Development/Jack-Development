@@ -24,7 +24,7 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="android"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple"></code>
+<code><img height="50" src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/apple-original%20_white.svg" alt="apple"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows"></code>
 <br></br>
