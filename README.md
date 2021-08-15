@@ -30,7 +30,7 @@
 <br></br>
 ## Environments
 <code><img height="50" src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/IntelliJ_Icon.svg" alt="IntelliJ"></code>
-<code><img height="50" src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/unity_icon.svg" alt="Unity"></code>
+<code><img height="50" src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/unity_icon_white.svg" alt="Unity"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"></code>
 <br></br>
 ## Contact Me:
