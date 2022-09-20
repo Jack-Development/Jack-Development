@@ -5,8 +5,8 @@
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-development&show_icons=true&theme=chartreuse-dark)
 
 ## About Me:
-* 😄 Pronouns: He / Him
-* 🇬🇧 I'm from, and currently working in, England
+* 🇬🇧 I'm from the United Kingdom
+* 🇯🇵 Currently I'm working in Japan
 * 🏫 University of Birmingham **(2020 - 2024)**
 * 🌱 Currently learning: HTML, JS, Python
 * 🔭 Currently working on: Expanding my skillset (Lots of smaller projects)
