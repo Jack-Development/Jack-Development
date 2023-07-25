@@ -1,7 +1,8 @@
-
+&nbsp;
 <div id="header" align="center">
-  <img src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/jyakku_nobg.png" width="300"/>
+  <img src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/jyakku_nobg.png" width="250"/>
 </div>
+&nbsp;
 <p align="center">
   <a href="https://www.linkedin.com/in/jack-shilton-uk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
