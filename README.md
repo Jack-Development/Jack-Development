@@ -1,3 +1,20 @@
+
+<div id="header" align="center">
+  <img src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/jyakku_nobg.png" width="300"/>
+</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jack-shilton-uk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.discordapp.com/users/389834334674092039">
+    <img src="https://img.shields.io/badge/Discord-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%230394-red?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+  <a href="https://shiltonjack@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white&color=red&style=for-the-badge" alt="GMail Badge"/>
+  </a>
+</p>
+
+
 # Hello World, I'm Jack 👋
 
 I'm a coder from the United Kingdom, currently working in Japan. I use GitHub to collaborate, publish, and review my coding journey. I'm a lifelong learner, always eager to dive into new languages and expand my skills.
@@ -34,7 +51,3 @@ I'm a coder from the United Kingdom, currently working in Japan. I use GitHub to
 <code><img height="50" src="https://github.com/Jack-Development/Jack-Development/blob/main/resources/unity_icon_white.svg" alt="Unity"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio"></code>
 </div>
-
-## Connect With Me:
-![Discord](https://img.shields.io/badge/Discord-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%230394-red?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)
-[![Email](https://img.shields.io/badge/-Email-red?logo=Gmail&logoColor=white&color=red&style=for-the-badge)](https://shiltonjack@gmail.com)
