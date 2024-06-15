@@ -18,17 +18,16 @@
 
 # Hello World, I'm Jack 👋
 
-I'm a coder from the United Kingdom, currently working in Japan. I use GitHub to collaborate, publish, and review my coding journey. I'm a lifelong learner, always eager to dive into new languages and expand my skills.
+I'm a programmer and resarcher from the United Kingdom, living in Japan. I use GitHub to collaborate, publish, and review my coding projects. I'm always ready to learn, always eager to dive into new skills.
 
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-development&show_icons=true&theme=chartreuse-dark)
 
 ## A Bit More About Me:
 
-* 🏠 Originally from the United Kingdom 🇬🇧, currently living and working in Japan 🇯🇵
-* 🎓 Studying at the University of Birmingham (2020 - 2024)
-* 🧠 Currently honing my skills in Python, PyTorch, and AI
+* 🏠 Originally from the United Kingdom 🇬🇧, currently living in Japan 🇯🇵
+* 🎓 Graduated fron the University of Birmingham (2020 - 2024)
 * 🔧 Working on various smaller projects to expand my skillset
-* 🗣️ Also, I'm on a journey of learning Japanese language! 🇯🇵
+* 🗣️ Learning Japanese! 🇯🇵
 
 ## Skills:
 <div>
