@@ -25,6 +25,7 @@ I'm a programmer and resarcher from the United Kingdom, living in Japan. I use G
 ## A Bit More About Me:
 
 * 🏠 Originally from the United Kingdom 🇬🇧, currently living in Japan 🇯🇵
+* 📖 Masters Student at the Isogawa Lab at 慶應義塾大学 (2024 - )
 * 🎓 Graduated from the University of Birmingham (2020 - 2024)
 * 🔧 Working on various smaller projects to expand my skillset
 * 🗣️ Learning Japanese! 🇯🇵
